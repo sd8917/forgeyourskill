@@ -9,6 +9,7 @@ const Register = () => {
     return (
         <>
             <div className='container mb-4 h-100' style={containerStyle}>
+            <h1>Register</h1>
                 <Form>
 
                 <Form.Group>

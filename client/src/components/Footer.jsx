@@ -6,7 +6,7 @@ import './header.css'
 const Footer = () => {
     return (
         <>
-            <Navbar className="nav" expand="lg" mb="3">
+            <Navbar className="nav" expand="lg" mt="3">
                 <div className='container'>
                     Footer Goes here
                 </div>
